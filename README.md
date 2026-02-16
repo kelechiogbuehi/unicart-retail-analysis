@@ -1,2 +1,1 @@
-# unicart-retain-analysis
-This is a power BI Portfolio project that documents the analysis on unicart retail group sales
+# Unicart Retail Group Sales Performance Report (2020 - 2025)
